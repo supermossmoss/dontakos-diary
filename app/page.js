@@ -1,5 +1,5 @@
-import Head from 'next/head';
 import styles from './page.module.css';
+import '../firebase';
 
 export default function Home() {
   return (
